@@ -1,3 +1,5 @@
+% Octave4.4.1
+% 线性回归模型，利用正规方程法求出参数
 X=load('featureX.dat');
 Y=load('priceY.dat');
 % 绘制训练样本点
